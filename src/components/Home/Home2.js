@@ -36,18 +36,7 @@ function Home2() {
               </i>
               <br />
               <br />
-                  Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple">  and Node.js</b>
-              </i>
+
             </p>
                     </Col>
           <Col md={4} className="myAvtar">
